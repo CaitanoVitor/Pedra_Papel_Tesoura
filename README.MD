@@ -2,10 +2,6 @@
 
 ![Pedra, Papel, Tesoura](./.docs/2fK77OLffM.gif)
 
-## Projeto
-
-Desenvolvido durante o curso Fullstack da [Academia do Programador](https://www.academiadoprogramador.net) 2026
-
 ## Introdução
 
 Especificação  
