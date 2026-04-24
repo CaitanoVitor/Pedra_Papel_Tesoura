@@ -1,6 +1,6 @@
 # Pedra, Papel, Tesoura
 
-![Pedra, Papel, Tesoura](./.docs/2fK77OLffM.gif)
+![Pedra, Papel, Tesoura](./.DOCS/2fK77OLffM.gif)
 
 ## Introdução
 
